@@ -1,7 +1,7 @@
 ---
 
-title: 叨叨点啥
-date: 2021-03-27 18:24:04
+title: 叨叨
+date: 2021-08-12 14:10:04
 
 ---
 
@@ -45,6 +45,6 @@ date: 2021-03-27 18:24:04
     .timeline ul li div{width:calc(100vw - 75px);left:30px;}
   }
 </style>
-<script data-pjax src="https://cdn.jsdelivr.net/gh/lang22/daodao/daodao.js">
+<script data-pjax src="https://cdn.jsdelivr.net/gh/lang22/daodao@1.0/daodao.js">
 
 </script>
